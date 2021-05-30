@@ -1,0 +1,16 @@
+com/example/hibernate/demo/jdbc/TestJDBC.java
+ com.example.hibernate.demo.jdbc.TestJDBC
+com/example/hibernate/demo/entity/Student.java
+ com.example.hibernate.demo.entity.Student
+com/example/hibernate/demo/CreateStudentDemo.java
+ com.example.hibernate.demo.CreateStudentDemo
+com/example/hibernate/demo/ReadStudentDemo.java
+ com.example.hibernate.demo.ReadStudentDemo
+com/example/hibernate/demo/PrimaryKeyDemo.java
+ com.example.hibernate.demo.PrimaryKeyDemo
+com/example/hibernate/demo/QueryStudentDemo.java
+ com.example.hibernate.demo.QueryStudentDemo
+com/example/hibernate/demo/UpdateStudentDemo.java
+ com.example.hibernate.demo.UpdateStudentDemo
+com/example/hibernate/demo/DeleteStudentDemo.java
+ com.example.hibernate.demo.DeleteStudentDemo

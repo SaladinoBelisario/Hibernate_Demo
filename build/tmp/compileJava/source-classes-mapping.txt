@@ -22,3 +22,5 @@ com/example/hibernate/demo/entity/InstructorDetail.java
  com.example.hibernate.demo.entity.InstructorDetail
 com/example/hibernate/demo/DeleteDemo.java
  com.example.hibernate.demo.DeleteDemo
+com/example/hibernate/demo/GetInstructorDetailDemo.java
+ com.example.hibernate.demo.GetInstructorDetailDemo

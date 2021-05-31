@@ -1,16 +1,24 @@
-com/example/hibernate/demo/jdbc/TestJDBC.java
- com.example.hibernate.demo.jdbc.TestJDBC
-com/example/hibernate/demo/entity/Student.java
- com.example.hibernate.demo.entity.Student
-com/example/hibernate/demo/CreateStudentDemo.java
- com.example.hibernate.demo.CreateStudentDemo
 com/example/hibernate/demo/ReadStudentDemo.java
  com.example.hibernate.demo.ReadStudentDemo
-com/example/hibernate/demo/PrimaryKeyDemo.java
- com.example.hibernate.demo.PrimaryKeyDemo
-com/example/hibernate/demo/QueryStudentDemo.java
- com.example.hibernate.demo.QueryStudentDemo
-com/example/hibernate/demo/UpdateStudentDemo.java
- com.example.hibernate.demo.UpdateStudentDemo
+com/example/hibernate/demo/entity/Student.java
+ com.example.hibernate.demo.entity.Student
 com/example/hibernate/demo/DeleteStudentDemo.java
  com.example.hibernate.demo.DeleteStudentDemo
+com/example/hibernate/demo/CreateStudentDemo.java
+ com.example.hibernate.demo.CreateStudentDemo
+com/example/hibernate/demo/QueryStudentDemo.java
+ com.example.hibernate.demo.QueryStudentDemo
+com/example/hibernate/demo/PrimaryKeyDemo.java
+ com.example.hibernate.demo.PrimaryKeyDemo
+com/example/hibernate/demo/UpdateStudentDemo.java
+ com.example.hibernate.demo.UpdateStudentDemo
+com/example/jdbc/TestJdbc.java
+ com.example.jdbc.TestJdbc
+com/example/hibernate/demo/entity/Instructor.java
+ com.example.hibernate.demo.entity.Instructor
+com/example/hibernate/demo/CreateDemo.java
+ com.example.hibernate.demo.CreateDemo
+com/example/hibernate/demo/entity/InstructorDetail.java
+ com.example.hibernate.demo.entity.InstructorDetail
+com/example/hibernate/demo/DeleteDemo.java
+ com.example.hibernate.demo.DeleteDemo

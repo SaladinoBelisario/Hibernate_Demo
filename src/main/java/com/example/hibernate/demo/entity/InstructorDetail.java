@@ -24,7 +24,8 @@ public class InstructorDetail {
     private String hobby;
 
     // adding bi-directional binding
-    @OneToOne(mappedBy = "instructorDetail", cascade = CascadeType.ALL)
+    @OneToOne(mappedBy = "instructorDetail", cascade = {CascadeType.DETACH,
+            CascadeType.PERSIST, CascadeType.MERGE, CascadeType.REFRESH, CascadeType.REMOVE})
     private Instructor instructor;
 
     public InstructorDetail() {

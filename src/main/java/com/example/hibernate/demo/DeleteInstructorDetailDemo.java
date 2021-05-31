@@ -25,7 +25,7 @@ public class DeleteInstructorDetailDemo {
 			session.beginTransaction();
 
 			// get the instructor detail object
-			int ID = 2;
+			int ID = 3;
 			InstructorDetail tempInstructorDetail = session.get(InstructorDetail.class, ID);
 			System.out.println("InstructorDetail: " + tempInstructorDetail);
 
@@ -34,6 +34,8 @@ public class DeleteInstructorDetailDemo {
 
 			// deleting the instructor detail in cascade
 			System.out.println("Deleting InstructorDetail: " + tempInstructorDetail);
+			// we need to break the bi-directional binding before deleting
+			tempInstructorDetail.getInstructor().setInstructorDetail(null);
 			session.delete(tempInstructorDetail);
 
 			// commit transaction

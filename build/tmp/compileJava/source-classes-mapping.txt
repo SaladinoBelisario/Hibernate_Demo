@@ -20,9 +20,19 @@ com/example/hibernate/demo/CreateDemo.java
  com.example.hibernate.demo.CreateDemo
 com/example/hibernate/demo/entity/InstructorDetail.java
  com.example.hibernate.demo.entity.InstructorDetail
-com/example/hibernate/demo/DeleteDemo.java
- com.example.hibernate.demo.DeleteDemo
 com/example/hibernate/demo/GetInstructorDetailDemo.java
  com.example.hibernate.demo.GetInstructorDetailDemo
 com/example/hibernate/demo/DeleteInstructorDetailDemo.java
  com.example.hibernate.demo.DeleteInstructorDetailDemo
+com/example/hibernate/demo/entity/Course.java
+ com.example.hibernate.demo.entity.Course
+com/example/hibernate/demo/DeleteDemo.java
+ com.example.hibernate.demo.DeleteDemo
+com/example/hibernate/demo/CreateCoursesDemo.java
+ com.example.hibernate.demo.CreateCoursesDemo
+com/example/hibernate/demo/CreateInstructorDemo.java
+ com.example.hibernate.demo.CreateInstructorDemo
+com/example/hibernate/demo/GetInstructorCoursesDemo.java
+ com.example.hibernate.demo.GetInstructorCoursesDemo
+com/example/hibernate/demo/DeleteCourseDemo.java
+ com.example.hibernate.demo.DeleteCourseDemo

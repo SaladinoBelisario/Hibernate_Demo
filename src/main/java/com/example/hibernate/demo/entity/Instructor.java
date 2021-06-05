@@ -108,7 +108,7 @@ public class Instructor {
     }
 
     // convenience methods for bi-directional relationship
-    public void add(Course course){
+    public void addCourse(Course course){
         if (courses==null){
             courses = new ArrayList<>();
         }

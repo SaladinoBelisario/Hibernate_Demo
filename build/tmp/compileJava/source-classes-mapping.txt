@@ -14,25 +14,37 @@ com/example/hibernate/demo/UpdateStudentDemo.java
  com.example.hibernate.demo.UpdateStudentDemo
 com/example/jdbc/TestJdbc.java
  com.example.jdbc.TestJdbc
+com/example/hibernate/demo/CreateCoursesDemo.java
+ com.example.hibernate.demo.CreateCoursesDemo
 com/example/hibernate/demo/entity/Instructor.java
  com.example.hibernate.demo.entity.Instructor
-com/example/hibernate/demo/CreateDemo.java
- com.example.hibernate.demo.CreateDemo
-com/example/hibernate/demo/entity/InstructorDetail.java
- com.example.hibernate.demo.entity.InstructorDetail
+com/example/hibernate/demo/CreateCourseAndReviewsDemo.java
+ com.example.hibernate.demo.CreateCourseAndReviewsDemo
+com/example/hibernate/demo/CreateInstructorDemo.java
+ com.example.hibernate.demo.CreateInstructorDemo
 com/example/hibernate/demo/GetInstructorDetailDemo.java
  com.example.hibernate.demo.GetInstructorDetailDemo
 com/example/hibernate/demo/DeleteInstructorDetailDemo.java
  com.example.hibernate.demo.DeleteInstructorDetailDemo
 com/example/hibernate/demo/entity/Course.java
  com.example.hibernate.demo.entity.Course
-com/example/hibernate/demo/DeleteDemo.java
- com.example.hibernate.demo.DeleteDemo
-com/example/hibernate/demo/CreateCoursesDemo.java
- com.example.hibernate.demo.CreateCoursesDemo
-com/example/hibernate/demo/CreateInstructorDemo.java
- com.example.hibernate.demo.CreateInstructorDemo
-com/example/hibernate/demo/GetInstructorCoursesDemo.java
- com.example.hibernate.demo.GetInstructorCoursesDemo
+com/example/hibernate/demo/FetchJoinDemo.java
+ com.example.hibernate.demo.FetchJoinDemo
+com/example/hibernate/demo/CreateDemo.java
+ com.example.hibernate.demo.CreateDemo
+com/example/hibernate/demo/EagerLazyDemo.java
+ com.example.hibernate.demo.EagerLazyDemo
 com/example/hibernate/demo/DeleteCourseDemo.java
  com.example.hibernate.demo.DeleteCourseDemo
+com/example/hibernate/demo/entity/Review.java
+ com.example.hibernate.demo.entity.Review
+com/example/hibernate/demo/DeleteDemo.java
+ com.example.hibernate.demo.DeleteDemo
+com/example/hibernate/demo/GetInstructorCoursesDemo.java
+ com.example.hibernate.demo.GetInstructorCoursesDemo
+com/example/hibernate/demo/entity/InstructorDetail.java
+ com.example.hibernate.demo.entity.InstructorDetail
+com/example/hibernate/demo/GetCourseAndReviewsDemo.java
+ com.example.hibernate.demo.GetCourseAndReviewsDemo
+com/example/hibernate/demo/DeleteCourseAndReviewsDemo.java
+ com.example.hibernate.demo.DeleteCourseAndReviewsDemo
